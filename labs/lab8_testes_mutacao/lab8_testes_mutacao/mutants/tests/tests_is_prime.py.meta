@@ -1,0 +1,24 @@
+{
+    "exit_code_by_key": {
+        "tests.tests_is_prime.x_test_is_prime_basics__mutmut_1": null,
+        "tests.tests_is_prime.x_test_is_prime_basics__mutmut_2": null,
+        "tests.tests_is_prime.x_test_is_prime_basics__mutmut_3": null,
+        "tests.tests_is_prime.x_test_is_prime_basics__mutmut_4": null,
+        "tests.tests_is_prime.x_test_is_prime_basics__mutmut_5": null,
+        "tests.tests_is_prime.x_test_is_prime_basics__mutmut_6": null,
+        "tests.tests_is_prime.x_test_is_prime_basics__mutmut_7": null,
+        "tests.tests_is_prime.x_test_is_prime_basics__mutmut_8": null,
+        "tests.tests_is_prime.x_test_is_prime_basics__mutmut_9": null,
+        "tests.tests_is_prime.x_test_is_prime_advanced__mutmut_1": null,
+        "tests.tests_is_prime.x_test_is_prime_advanced__mutmut_2": null,
+        "tests.tests_is_prime.x_test_is_prime_advanced__mutmut_3": null,
+        "tests.tests_is_prime.x_test_is_prime_advanced__mutmut_4": null,
+        "tests.tests_is_prime.x_test_is_prime_advanced__mutmut_5": null,
+        "tests.tests_is_prime.x_test_is_prime_advanced__mutmut_6": null,
+        "tests.tests_is_prime.x_test_is_prime_advanced__mutmut_7": null
+    },
+    "hash_by_function_name": {
+        "test_is_prime_basics": "723fe93c1f48dc63fd6c20bec534592a",
+        "test_is_prime_advanced": "e83167328a19b5071fa2cdffda88ac6a"
+    }
+}
